@@ -27,6 +27,7 @@ INTROG_2025-2026-1/
 │   ├── Views/
 │   └── ...
 └── ...               # Additional projects
+
 🛠️ Setup Instructions
 Prerequisites
 .NET SDK (version specified in project files)
