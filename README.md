@@ -14,21 +14,6 @@ SQL Server - Database management system (if applicable)
 
 Entity Framework - ORM tool (if applicable)
 
-📁 Project Structure
-INTROG_2025-2026-1/
-├── Project1/          # First ASP.NET project
-│   ├── Controllers/
-│   ├── Models/
-│   ├── Views/
-│   └── ...
-├── Project2/          # Second ASP.NET project
-│   ├── Controllers/
-│   ├── Models/
-│   ├── Views/
-│   └── ...
-└── ...               # Additional projects
-
-
 🛠️ Setup Instructions
 Prerequisites
 .NET SDK (version specified in project files)
